@@ -1,7 +1,7 @@
 # Learning-Linux.
+## IMPORTANT COMMANDS IN LINUX
 
-
-| KEY | MEANING |
+| COMMANDS | MEANING |
 | :---         |     :---:      | 
 | ls  |  lists a directory’s content.  | 
 | pwd   |  shows the current working directory’s path. |
@@ -10,18 +10,46 @@
 | rmdir  |  removes a folder or path.   | 
 | rm |   deletes a file.  | 
 | cp  | copies files and directories, including their content. | 
+| mv  |   moves or renames files and directories.  |
+| touch | creates a new empty file. |
+| file | checks a file’s type. |
+| zip and unzip | creates and extracts a ZIP archive.|
+| tar |  archives files without compression in a TAR format. |
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||||||||||||||
 
-
-
-mkdir – creates a new directory.
-rmdir – removes a folder or path.
-rm – deletes a file.
-cp – copies files and directories, including their content.
-mv – moves or renames files and directories.
-touch – creates a new empty file.
-file – checks a file’s type.
-zip and unzip – creates and extracts a ZIP archive.
-tar – archives files without compression in a TAR format.
 nano, vi, and jed – edits a file with a text editor.
 cat – lists, combines, and writes a file’s content as a standard output.
 grep – searches a string within a file.
