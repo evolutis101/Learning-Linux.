@@ -15,6 +15,9 @@
 | file | checks a file’s type. |
 | zip and unzip | creates and extracts a ZIP archive.|
 | tar |  archives files without compression in a TAR format. |
+|nano, vi, and jed | edits a file with a text editor.|
+|cat| lists, combines, and writes a file’s content as a standard output.|
+|grep| searches a string within a file.|
 |||
 |||
 |||
@@ -29,30 +32,7 @@
 |||
 |||
 |||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||||||||||||||
 
-nano, vi, and jed – edits a file with a text editor.
-cat – lists, combines, and writes a file’s content as a standard output.
-grep – searches a string within a file.
 sed – finds, replaces, or deletes patterns in a file.
 head – displays a file’s first ten lines.
 tail – prints a file’s last ten lines.
