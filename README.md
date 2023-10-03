@@ -1,15 +1,15 @@
 # Learning-Linux.
-| Left-aligned | Center-aligned |
+| KEY | MEANING |
 | :---         |     :---:      | 
 | ls  |  lists a directory’s content.  | 
 | pwd   |  shows the current working directory’s path. |
-| ls  |  lists a directory’s content.  | 
-| ls  |  lists a directory’s content.  | 
-| ls  |  lists a directory’s content.  | 
-| ls  |  lists a directory’s content.  | 
+| cd |   changes the working directory.  | 
+| mkdir  | creates a new directory.  | 
+| rmdir  |   copies files and directories, including their content. | 
+| cp  |  lists a directory’s content.  | 
 | cd    | git diff       |
 
-cd – changes the working directory.
+
 mkdir – creates a new directory.
 rmdir – removes a folder or path.
 rm – deletes a file.
